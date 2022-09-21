@@ -1,5 +1,5 @@
-# 公式ドキュメント日本語訳
+# 公式ドキュメント日本語訳（非公式）
 
-## [Three.js 公式ドキュメント 日本語訳](./three/README.md)
+## [Three.js](./three/README.md)
 
-## [React Three Fiber 公式ドキュメント 日本語訳](./fiber/README.md)
+## [React Three Fiber](./fiber/README.md)
