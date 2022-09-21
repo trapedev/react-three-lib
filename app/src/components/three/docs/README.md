@@ -19,7 +19,7 @@
 > ## その他
 > ## その他 / コア
 > ## その他 / 曲線
-> ## 幾何学
+> ## 幾何学（Geometries）
 > - [BoxGeometry](./reference/geometry/BoxGeometry.md)
 > - [CapsuleGeometry]()
 > - [CircleGeometry]()
