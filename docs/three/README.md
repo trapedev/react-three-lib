@@ -255,7 +255,7 @@
 >
 > - [LineBasicMaterial](./reference/materials/LineBasicMaterial.md)
 > - [LineDashedMaterial](./reference/materials/LineDashedMaterial.md)
-> - [Material]()
+> - [Material](./reference/materials/Material.md)
 > - [MeshBasicMaterial]()
 > - [MeshDepthMaterial]()
 > - [MeshDistanceMaterial]()
