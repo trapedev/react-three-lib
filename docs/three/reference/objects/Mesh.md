@@ -28,13 +28,14 @@ BufferGeometry のインスタンス．デフォルトでは，新しい BufferG
 ## プロパティ
 
 共通のプロパティについては、ベースとなる Object3D クラスを参照．
-| プロパティ名 | 型 | 説明 |
-| :----------- | :-- | :--- |
-| geometry | BufferGeometry | BufferGeometry（またはその派生クラス）のインスタンスで，オブジェクトの構造を定義． |
-| isMesh | Boolean | 与えられたオブジェクトが Mesh 型であるかどうかをチェックするための読み取り専用フラグ． |
-| material | Material | オブジェクトの外観を定義する，Material 基底クラスから派生したマテリアルのインスタンス，またはマテリアルの配列．デフォルトは MeshBasicMaterial． |
-| morphTargetInfluences | Array | 0 から 1 までの重みの配列で，モーフを適用する量を指定する．デフォルトでは未定義だが， updateMorphTargets によって空白の配列にリセットされる． |
-| morphTargetDictionary | Object | morphTarget.name プロパティに基づいた morphTarget の辞書です．デフォルトでは未定義だが，updateMorphTargets を再構築する． |
+
+| プロパティ名          | 型             | 説明                                                                                                                                            |
+| :-------------------- | :------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- |
+| geometry              | BufferGeometry | BufferGeometry（またはその派生クラス）のインスタンスで，オブジェクトの構造を定義．                                                              |
+| isMesh                | Boolean        | 与えられたオブジェクトが Mesh 型であるかどうかをチェックするための読み取り専用フラグ．                                                          |
+| material              | Material       | オブジェクトの外観を定義する，Material 基底クラスから派生したマテリアルのインスタンス，またはマテリアルの配列．デフォルトは MeshBasicMaterial． |
+| morphTargetInfluences | Array          | 0 から 1 までの重みの配列で，モーフを適用する量を指定する．デフォルトでは未定義だが， updateMorphTargets によって空白の配列にリセットされる．   |
+| morphTargetDictionary | Object         | morphTarget.name プロパティに基づいた morphTarget の辞書です．デフォルトでは未定義だが，updateMorphTargets を再構築する．                       |
 
 ## メソッド
 
