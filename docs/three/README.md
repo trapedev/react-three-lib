@@ -57,7 +57,7 @@
 > - [CapsuleGeometry](./reference/geometry/CapsuleGeometry.md)
 > - [CircleGeometry](./reference/geometry/CircleGeometry.md)
 > - [ConeGeometry](./reference/geometry/ConeGeometry.md)
-> - [CylinderGeometry]()
+> - [CylinderGeometry](./reference/geometry/CylinderGeometry.md)
 > - [DodecahedronGeometry]()
 > - [EdgesGeometry]()
 > - [ExtrudeGeometry]()
