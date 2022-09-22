@@ -56,7 +56,7 @@
 > - [BoxGeometry](./reference/geometry/BoxGeometry.md)
 > - [CapsuleGeometry](./reference/geometry/CapsuleGeometry.md)
 > - [CircleGeometry](./reference/geometry/CircleGeometry.md)
-> - [ConeGeometry]()
+> - [ConeGeometry](./reference/geometry/ConeGeometry.md)
 > - [CylinderGeometry]()
 > - [DodecahedronGeometry]()
 > - [EdgesGeometry]()
@@ -119,7 +119,7 @@
 >
 > - []()
 >
-> ## レンダラー / WebGL（Renderers / WebXR）
+> ## レンダラー / WebXR（Renderers / WebXR）
 >
 > - []()
 >
