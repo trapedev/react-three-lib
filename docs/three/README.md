@@ -55,7 +55,7 @@
 >
 > - [BoxGeometry](./reference/geometry/BoxGeometry.md)
 > - [CapsuleGeometry](./reference/geometry/CapsuleGeometry.md)
-> - [CircleGeometry]()
+> - [CircleGeometry](./reference/geometry/CircleGeometry.md)
 > - [ConeGeometry]()
 > - [CylinderGeometry]()
 > - [DodecahedronGeometry]()
