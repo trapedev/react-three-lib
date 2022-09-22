@@ -1,4 +1,4 @@
-# Material
+# [Material](https://threejs.org/docs/index.html#api/en/materials/Material)
 
 マテリアルの抽象的な基底クラス．
 
