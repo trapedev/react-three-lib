@@ -54,7 +54,7 @@
 > ## 幾何学（Geometries）
 >
 > - [BoxGeometry](./reference/geometry/BoxGeometry.md)
-> - [CapsuleGeometry]()
+> - [CapsuleGeometry](./reference/geometry/CapsuleGeometry.md)
 > - [CircleGeometry]()
 > - [ConeGeometry]()
 > - [CylinderGeometry]()
