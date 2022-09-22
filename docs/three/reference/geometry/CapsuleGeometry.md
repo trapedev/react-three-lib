@@ -1,4 +1,4 @@
-# CapsuleGeometry
+# [CapsuleGeometry](https://threejs.org/docs/index.html#api/en/geometries/CapsuleGeometry)
 
 CapsuleGeometry は，与えられた半径と高さを持つカプセルのジオメトリクラスである．旋盤を使用して製作されている．
 
