@@ -173,7 +173,7 @@
 > - [PolyhedronGeometry]()
 > - [RingGeometry]()
 > - [ShapeGeometry]()
-> - [SphereGeometry]()
+> - [SphereGeometry](./reference/geometry/SphereGeometry.md)
 > - [TetrahedronGeometry]()
 > - [TorusGeometry]()
 > - [TorusKnotGeometry]()
