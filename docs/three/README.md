@@ -316,7 +316,7 @@
 > - []()
 > - [Line](./reference/objects/Line.md)
 > - []()
-> - []()
+> - [LineSegments](./reference/objects/LineSegments.md)
 > - []()
 > - [Mesh](./reference/objects/Mesh.md)
 > - []()
